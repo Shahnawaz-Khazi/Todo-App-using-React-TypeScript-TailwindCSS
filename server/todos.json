@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1748793580334,
+    "date": "2025-06-01",
+    "title": "Grocery Shopping",
+    "description": "Buy milk, eggs, bread, fruits (apples, bananas), and vegetables (spinach, tomatoes). Don't forget the special cheese!",
+    "completed": false
+  },
+  {
+    "id": 1748793605494,
+    "date": "2025-06-02",
+    "title": "Gym Workout",
+    "description": "Leg day: squats, lunges, leg press. Focus on proper form. (Completed)",
+    "completed": false
+  },
+  {
+    "id": 1748793636020,
+    "date": "2025-06-02",
+    "title": "Plan Weekend Getaway",
+    "description": "Research destinations for a short weekend trip. Consider options like a beach resort or a mountain cabin. Check flight/train availability.",
+    "completed": false
+  }
+]
